@@ -20,3 +20,8 @@ speler 2 <br>
 "pijltje naar boven" = springen <br>
 "pijltje naar rechts" = naar rechts <br>
 "pijltje naar beneden" = aanvallen <br>
+
+
+
+<h3>link naar peer review</h3> <br>
+https://github.com/TechniekCollegeRotterdam/p4-project-javascript-UNOWNperson/pull/4 <br>
