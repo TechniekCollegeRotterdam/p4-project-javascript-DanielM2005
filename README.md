@@ -7,7 +7,7 @@ de movement is erg basic en simpel
 
 speler 1
 
-A = naar links
+A = naar links <br>
 w = springen
 D = naar rechts
 "spatie" = aanvallen
