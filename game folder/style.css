@@ -1,0 +1,21 @@
+* {
+    font-family: 'Press Start 2P', cursive;
+}
+
+body {
+    background-image: url("img/index-background.png");
+    
+}
+
+h1 {
+    margin-top: 390px;
+    color: aquamarine;
+}
+
+.button {
+    margin-top: 50px;
+    margin-left: 650px;
+    border-radius: 2px;
+    height: 40px;
+    background-color: aqua;
+}
